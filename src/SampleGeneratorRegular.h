@@ -1,6 +1,6 @@
 #pragma once
 
-#include "sampleGenerator.h"
+#include "SampleGenerator.h"
 
 class CSampleGeneratorRegular : public CSampleGenerator
 {
